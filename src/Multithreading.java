@@ -6,7 +6,7 @@ class Thread1 extends Thread {
 	@Override
 	public void run() {
 		while(isRunning) {
-			System.out.println(counter);
+			System.out.println("Counter : " + counter);
 			counter++;
 			try {
 				Thread.sleep(200);
