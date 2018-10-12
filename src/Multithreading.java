@@ -15,7 +15,6 @@ class Thread1 extends Thread {
 			}
 		}
 	}
-	
 }
 public class Multithreading {
 
