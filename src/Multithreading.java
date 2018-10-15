@@ -19,7 +19,7 @@ class Thread1 extends Thread {
 public class Multithreading {
 
 	public static void main(String[] args) {
-		System.out.println("Starting thread 1");
+		System.out.println("Starting thread 1:");
 		Thread1 t1 = new Thread1();
 		t1.start();
 		Scanner scanner = new Scanner(System.in);
