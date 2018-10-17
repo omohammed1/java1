@@ -1,2 +1,2 @@
 In the name of Allah
-test git diff
+test git bash
