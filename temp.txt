@@ -1,4 +1,0 @@
-In the name of Allah
-test git bash
-test git commit
-test git commit -a
